@@ -19,9 +19,7 @@ We implement:
 
 ![pnl](assets/PNL_AAPL.png)
 
-![cov](assets/correl.png)
-
-
+![cov](assets/cov.png)
 
 ### Disclaimer 
 Source code is available upon request. Please contact me directly. 
