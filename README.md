@@ -17,6 +17,8 @@ We implement:
 
 ![ou_2](assets/distrib_OU_random.png)
 
+![pnl](assets/PNL_AAPL.png)
+
 ![cov](assets/correl.png)
 
 
