@@ -5,6 +5,7 @@ This repository reproduces the results of :
 - [Alouadi, Barreau, Carlier and Pham (2025)](https://arxiv.org/pdf/2503.02943).
 
 We implement: 
+- a complete backtest of this method by performing deep hedging of a call option on the `AAPL` ticker (see `test_DeepHedging.ipynb`).
 
 
 ### Examples of illustrations 
