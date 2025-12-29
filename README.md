@@ -12,6 +12,10 @@ We implement:
 
 ![fbm](assets/fbm.png)
 
+![ou_1](assets/distrib_OU_const.png)
+
+![ou_2](assets/distrib_OU_random.png)
+
 ![cov](assets/correl.png)
 
 
