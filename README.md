@@ -9,6 +9,9 @@ We implement:
 
 ### Examples of illustrations 
 
+![cov](assets/correl.png)
+
+
 
 ### Disclaimer 
 Source code is available upon request. Please contact me directly. 
