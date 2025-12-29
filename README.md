@@ -10,6 +10,8 @@ We implement:
 
 ### Examples of illustrations 
 
+![fbm](assets/fbm.png)
+
 ![cov](assets/correl.png)
 
 
